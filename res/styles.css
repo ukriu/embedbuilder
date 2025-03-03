@@ -32,10 +32,10 @@ main.content {
   --font: "fixedsys_excelsior_3.01Rg", monospace;
   --primary-color: lavenderblush;
   --background-color: #000;
-  --highlight-color: violet;
-  --link-color: violet;
+  --highlight-color: #bc3248;
+  --link-color: #bc3248;
   --link-hover-color: lavenderblush;
-  --link-active-color: crimson;
+  --link-active-color: #a190a3;
 }
 body,
 html {
